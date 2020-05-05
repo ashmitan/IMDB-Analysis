@@ -1,9 +1,9 @@
-## IMDB Data Analysis Pipeline
+# IMDB Data Analysis Pipeline
 
-# Objective:
+## Objective:
 The aim of the project is to analyse the movies data from multiple sources such as IMDB MoviesLens, The Numbers and BoxOffice Mojo.com based on movies/cast/box office revenues, movie brands and franchises and perform ETL processes using Talend. 
 
-# Technologies Used: 
+## Technologies Used: 
 ER/ Studio
 SQL server Developer Edition
 Microsoft SQL server Management Studio
@@ -11,7 +11,7 @@ Talend Real-Time Data Platform 7.1
 Tableau Desktop
 Microsoft PowerBI
 
-# Dataset Links:
+## Dataset Links:
 https://datasets.imdbws.com/
 https://www.boxofficemojo.com/franchise/?ref_=bo_nb_fr_secondarytab
 https://www.boxofficemojo.com/brand/?ref_=bo_nb_frs_secondarytab
@@ -20,7 +20,7 @@ https://www.the-numbers.com/movies/franchises
 https://www.the-numbers.com/movies/franchise/Marvel-Cinematic-Universe#tab=summary
 https://www.the-numbers.com/movie/Avengers-The-(2012)#tab=box-office
 
-# Code Walkthrough:
+## Code Walkthrough:
 Run following script in SSMS to setup the staging database
 
 The Number - stage tables.sql

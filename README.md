@@ -21,7 +21,7 @@ https://www.the-numbers.com/movies/franchise/Marvel-Cinematic-Universe#tab=summa
 https://www.the-numbers.com/movie/Avengers-The-(2012)#tab=box-office
 
 ## Code Walkthrough:
-# Step 1 : Run following script in SSMS to setup the staging database
+### Step 1 : Run following script in SSMS to setup the staging database
 
 The Number - stage tables.sql
 
@@ -31,11 +31,11 @@ stg imdb tables expanded part 2.sql
 
 stg_ml_tables.sql
 
-# Step 2 : Open Talend and setup your database connections and input file connections
+### Step 2 : Open Talend and setup your database connections and input file connections
 
 When the connections are successful run jobs.
 
-# Step 3 : Perform Visualizations in Tableau and PowerBI
+### Step 3 : Perform Visualizations in Tableau and PowerBI
 
 Please feel free to reach out to ashmitan20@gmail.com for any questions or any changes you propose.
 

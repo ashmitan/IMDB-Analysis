@@ -12,13 +12,13 @@ The aim of the project is to analyse the movies data from multiple sources such 
 6. Microsoft PowerBI
 
 ## Dataset Links:
-https://datasets.imdbws.com/
-https://www.boxofficemojo.com/franchise/?ref_=bo_nb_fr_secondarytab
-https://www.boxofficemojo.com/brand/?ref_=bo_nb_frs_secondarytab
-https://grouplens.org/datasets/movielens/25m/
-https://www.the-numbers.com/movies/franchises
-https://www.the-numbers.com/movies/franchise/Marvel-Cinematic-Universe#tab=summary
-https://www.the-numbers.com/movie/Avengers-The-(2012)#tab=box-office
+1. https://datasets.imdbws.com/
+2. https://www.boxofficemojo.com/franchise/?ref_=bo_nb_fr_secondarytab
+3. https://www.boxofficemojo.com/brand/?ref_=bo_nb_frs_secondarytab
+4. https://grouplens.org/datasets/movielens/25m/
+5. https://www.the-numbers.com/movies/franchises
+6. https://www.the-numbers.com/movies/franchise/Marvel-Cinematic-Universe#tab=summary
+7. https://www.the-numbers.com/movie/Avengers-The-(2012)#tab=box-office
 
 ## Code Walkthrough:
 ### Step 1 : Run following script in SSMS to setup the staging database

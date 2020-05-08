@@ -4,12 +4,12 @@
 The aim of the project is to analyse the movies data from multiple sources such as IMDB MoviesLens, The Numbers and BoxOffice Mojo.com based on movies/cast/box office revenues, movie brands and franchises and perform ETL processes using Talend. 
 
 ## Technologies Used: 
-ER/ Studio
-SQL server Developer Edition
-Microsoft SQL server Management Studio
-Talend Real-Time Data Platform 7.1
-Tableau Desktop
-Microsoft PowerBI
+1. ER/ Studio
+2. SQL server Developer Edition
+3. Microsoft SQL server Management Studio
+4. Talend Real-Time Data Platform 7.1
+5. Tableau Desktop
+6. Microsoft PowerBI
 
 ## Dataset Links:
 https://datasets.imdbws.com/

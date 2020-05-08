@@ -37,6 +37,16 @@ When the connections are successful run jobs.
 
 ### Step 3 : Perform Visualizations in Tableau and PowerBI
 
+Refer to Tableau workbook for checking visualizations and new use cases will be added soon. 
+Microsoft PowerBI file to be added soon. 
+
+## References:
+ - https://elearning.tableau.com/
+ - https://help.talend.com/reader/KxVIhxtXBBFymmkkWJ~O4Q/8RlpZdAdKhP0IaMHXRV7yw
+ - https://www.talend.com/
+ - https://grouplens.org/datasets/movielens/
+
+### Contact
 Please feel free to reach out to ashmitan20@gmail.com for any questions or any changes you propose.
 
 
